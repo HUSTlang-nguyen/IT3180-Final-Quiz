@@ -3038,8 +3038,6 @@ Nguồn: c6 p2
 (5) Nút cuối cùng của hoạt động chỉ có thể được mô hình hóa một lần trong mỗi mô hình. 
 (6) Các phân vùng không được có độ sâu phân cấp nhiều hơn một.
 
-![Hình câu C6-001](assets/quiz_3180/c6_p2_daotao_q0001.png)
-
 - A. 2 và 3
 - B. 5 và 6
 - C. 1 và 4
